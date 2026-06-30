@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+.verdadeira {
+    border-left: 8px solid #28a745;
+}
+
+.falsa {
+    border-left: 8px solid #dc3545;
+}
+
+.dicas {
+    background: #fff8dc;
+    border-left: 8px solid #ffc107;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+ul {
+    line-height: 1.8;
+}
